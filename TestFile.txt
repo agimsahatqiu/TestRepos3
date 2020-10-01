@@ -1,0 +1,12 @@
+This is my first text file that i created from command line
+
+
+
+
+Hello Welcome to Neotech Academy
+
+
+I can edit if I put in the same file name
+		ex: vim TestFile.txt
+				for this specific file
+
